@@ -17,14 +17,16 @@ Helper for TStringDynArray.
  - TFraction: Record for easy manager rational numbers.
 ### [Boost.Generics.Collection](Documentation/Boost.Generics.Collection.md);
  - TQueue<T>: Generic record for create a queue compatible com System.Generics.Collections;
- - TStack<T>: Generic record for create a queue compatible com System.Generics.Collections;
+ - TStack<T>: Generic record for create a stack compatible com System.Generics.Collections;
+ - TDictionary<T>:  Generic record for create a dictionary compatible com System.Generics.Collections;
  - TSet<T>: Genereic record for extend Set concept in Delphi.  
-
+### Boost.LinkedList [Beta];
+ - TLinkedList<T>: Class implementation of Linked list; 	
 <hr width=”100%”>
 
 ## How to contribute
 
-If you like this project, and want contribute, you can:
+If you like this project and want contribute, you can:
 
 - Report issues in source or documentation;
 - Add a request for new features;
